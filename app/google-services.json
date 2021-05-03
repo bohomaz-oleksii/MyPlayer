@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574366938725",
+    "project_id": "exoplayertest-d87c2",
+    "storage_bucket": "exoplayertest-d87c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574366938725:android:6be3310be0a3d0977a388c",
+        "android_client_info": {
+          "package_name": "com.thorproject.myplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574366938725-hishvv72iiq2mdqfl66sbfovi3q019l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMkFK6zEk0n-99RQChrgycngbW-Au5Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574366938725-hishvv72iiq2mdqfl66sbfovi3q019l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
